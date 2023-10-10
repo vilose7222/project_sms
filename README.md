@@ -3,8 +3,8 @@
 
 ![sms](https://github.com/vilose7222/project_sms/assets/141006779/23c279b7-927f-43e5-9267-628c11d3e3ba)
 
-## 목적
-학생 관리 프로그램
+## 개요
+js를 활용한 학생 관리 프로그램
 
 ## 개발 인원
 개인 프로젝트
